@@ -1,1 +1,3 @@
-[{"nome": "Rap do Minecraft", "tipo": "skibidi", "género": "sigma"}]
+[["nome", "tipo", "género"], 
+  {"nome": "Rap do Minecraft", "tipo": "skibidi", "género": "sigma"},
+]
