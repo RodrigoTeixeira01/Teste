@@ -1,4 +1,4 @@
-[[["nome", "not filter"], ["tipo", "filter"], ["cifra", "not filter"]], 
+[[["nome", "not filter"], ["tipo", "filter"], ["cifra", "link"]], 
   {"nome": "Me faz novo", "tipo": "aquele", "cifra": "cifraclub.com.br/cosme/me-faz-novo"},
   {"nome": "Hino Português", "tipo": "aquele outro", "cifra": "cifraclub.com.br/hinos/hino-de-portugal-a-portuguesa"}
 ]
